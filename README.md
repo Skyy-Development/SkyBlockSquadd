@@ -24,8 +24,7 @@
   
 ***
 
-## [Discord Server 😎](https://discord.gg/milrato) | [Website](https://milrato.dev)
-<a href="<iframe src="https://discord.com/widget?id=1061021769303068824&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>"><img src="https://discord.com/api/guilds/1061021769303068824/widget.png?style=banner2"></a>
+<iframe src="https://discord.com/widget?id=1061021769303068824&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ***
 
