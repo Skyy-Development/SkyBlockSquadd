@@ -1,19 +1,42 @@
-- uses: Platane/snk@v2
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
+<div align="center" style"border-radius:15px">
+  <a href="https://discord.gg/milrato" title="Discord Server" target="_blank">
+    <img src="https://cdn.discordapp.com/banners/442355791412854784/e4c3381efba7362b4d8e8b7e918dd8dc.png?size=4096" style"width: 100%;border-radius:15px">
+  </a>
+</div>
 
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+## <div align="center">I'm Tomato, mainly a Discord Bot Developer! Working since 2017 on Bots 🚀</div>  
+
+### <div align="center">[Click here to view my Portfolio](https://tomato6966.xyz)</div>  
+
+![](https://discord.c99.nl/widget/theme-3/442355791412854784.png)  
+
+***
+
+- 🔭 I’m currently working on a [**Multi Function Discord Bot with over 1000+ Features!**](https://milrato.com) and Public Services like [Milrato-Lavalink](https://lavalink.milrato.com)
+  
+
+- 🌱 I’m currently coding in **Javascript** and C#.  
+  
+
+- ❓  I am in love with coding Discord Bots, I also love helping!.
+  
+<br/>
+  
+***
+
+## [Discord Server 😎](https://discord.gg/milrato) | [Website](https://milrato.dev)
+<a href="https://discord.gg/dcdev"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
+
+***
+
+## SUPPORT ME AND MILRATO DEVELOPMENT
+
+> You can always Support me by inviting one of my **own Discord Bots**
+
+[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.dev)
+[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://musicium.musicium.dev)
+[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://milrato.com)
+
+# Credits
+
+> If consider using this Bot, make sure to credit me!
