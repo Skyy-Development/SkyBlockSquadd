@@ -20,11 +20,8 @@
 
 - ❓  I am in love with coding Discord Bots, I also love helping!.
   
-<br/>
-  
-***
-
 <iframe src="https://discord.com/widget?id=1061021769303068824&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 
 ***
 
