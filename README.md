@@ -21,7 +21,7 @@
 - ❓  I am in love with coding Discord Bots, I also love helping!.
   
 ## [Discord Server 😎](https://discord.gg/milrato) | [Website](https://milrato.dev)
-<a href="https://discord.gg/dcdev"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
+<a href="https://discord.gg/dcdev"><img src="[https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2](https://discord.com/api/guilds/1061021769303068824/widget.json)"></a>
 
 
 
