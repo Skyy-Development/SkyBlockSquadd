@@ -25,7 +25,7 @@
 ***
 
 ## [Discord Server 😎](https://discord.gg/milrato) | [Website](https://milrato.dev)
-<a href="https://discord.gg/dcdev"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
+<a href="https://discord.gg/f9CQwFuVUD"><img src="https://discord.com/api/guilds/1061021769303068824/widget.png?style=banner2"></a>
 
 ***
 
