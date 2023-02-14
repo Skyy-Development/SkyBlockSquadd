@@ -20,8 +20,7 @@
 
 - ❓  I am in love with coding Discord Bots, I also love helping!.
   
-## [Discord Server 😎](https://discord.gg/milrato) | [Website](https://milrato.dev)
-<a href="https://discord.gg/dcdev"><img src="<iframe src="https://discord.com/widget?id=1061021769303068824&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>"></a>
+<iframe src="http://www.staggeringbeauty.com/" style="border: 1px inset #ddd" width="498" height="598"></iframe>
 
 
 
