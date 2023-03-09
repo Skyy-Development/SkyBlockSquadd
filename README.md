@@ -10,6 +10,8 @@
 
 ![](https://discord.c99.nl/widget/theme-3/442355791412854784.png)  
 
+<iframe src="https://discord.com/widget?id=175253192106311680&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 ***
 
 - 🔭 I’m currently working on a [**Multi Function Discord Bot with over 1000+ Features!**](https://milrato.com) and Public Services like [Milrato-Lavalink](https://lavalink.milrato.com)
