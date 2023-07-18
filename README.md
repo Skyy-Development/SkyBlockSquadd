@@ -1,6 +1,8 @@
 <img src="https://discord.c99.nl/widget/theme-2/899210602508066867.png">
 
 
+My Bot
+<img src="https://discord.c99.nl/widget/theme-4/899210602508066867.png">
 
  
  I’m currently coding in **Javascript** and C#.  
