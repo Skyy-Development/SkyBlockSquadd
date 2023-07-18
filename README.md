@@ -2,7 +2,7 @@
 
 
 My Bot
-<img src="https://discord.c99.nl/widget/theme-4/899210602508066867.png">
+<img src="https://discord.c99.nl/widget/theme-1/974999230148116480.png">
 
  
  I’m currently coding in **Javascript** and C#.  
