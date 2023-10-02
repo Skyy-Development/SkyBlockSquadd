@@ -19,8 +19,5 @@ Invite:https://discord.com/api/oauth2/authorize?client_id=974999230148116480&per
   
 Boggestv **Admin**
 
-<iframe src="https://discord.com/widget?id=966957954488205322&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
-
 
 ***
