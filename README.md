@@ -1,1 +1,1 @@
-<iframe src="https://sky-development.is-a.dev/badge?theme=dark" width="250" height="30" frameborder="0" scrolling="no"></iframe>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1131236182899052696)](https://discord.com/users/1131236182899052696)
